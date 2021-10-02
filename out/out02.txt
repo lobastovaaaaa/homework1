@@ -1,0 +1,10 @@
+Filled container.
+Container contains 5 elements.
+0: It is Parallelepiped: length = 8, width = 4, height = 5. SurfaceArea = 160.000000
+1: It is Parallelepiped: length = 5, width = 13, height = 1. SurfaceArea = 65.000000
+2: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+3: It is Parallelepiped: length = 6, width = 12, height = 4. SurfaceArea = 288.000000
+4: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+Surface area sum = 805.708008
+Empty container.
+Container contains 0 elements.
