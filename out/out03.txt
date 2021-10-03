@@ -1,35 +1,6 @@
 Filled container.
-Container contains 30 elements.
+Container contains 1 elements.
 0: It is Parallelepiped: length = 8, width = 4, height = 5. SurfaceArea = 160.000000
-1: It is Parallelepiped: length = 5, width = 13, height = 1. SurfaceArea = 65.000000
-2: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
-3: It is Parallelepiped: length = 6, width = 12, height = 4. SurfaceArea = 288.000000
-4: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
-5: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
-6: It is Sphere: radius = 17. SurfaceArea = 3631.677979
-7: It is Sphere: radius = 5. SurfaceArea = 314.158997
-8: It is Parallelepiped: length = 4, width = 7, height = 5. SurfaceArea = 140.000000
-9: It is Sphere: radius = 17. SurfaceArea = 3631.677979
-10: It is Parallelepiped: length = 6, width = 1, height = 1. SurfaceArea = 6.000000
-11: It is Parallelepiped: length = 9, width = 11, height = 5. SurfaceArea = 495.000000
-12: It is Parallelepiped: length = 10, width = 6, height = 1. SurfaceArea = 60.000000
-13: It is Parallelepiped: length = 2, width = 6, height = 4. SurfaceArea = 48.000000
-14: It is Sphere: radius = 5. SurfaceArea = 314.158997
-15: It is Sphere: radius = 12. SurfaceArea = 1809.555786
-16: It is Parallelepiped: length = 9, width = 3, height = 3. SurfaceArea = 81.000000
-17: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
-18: It is Sphere: radius = 20. SurfaceArea = 5026.543945
-19: It is Parallelepiped: length = 2, width = 9, height = 5. SurfaceArea = 90.000000
-20: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
-21: It is Parallelepiped: length = 3, width = 3, height = 5. SurfaceArea = 45.000000
-22: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
-23: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
-24: It is Parallelepiped: length = 6, width = 5, height = 4. SurfaceArea = 120.000000
-25: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
-26: It is Sphere: radius = 2. SurfaceArea = 50.265442
-27: It is Sphere: radius = 9. SurfaceArea = 1017.875183
-28: It is Sphere: radius = 4. SurfaceArea = 201.061768
-29: It is Sphere: radius = 15. SurfaceArea = 2827.430908
-Surface area sum = 22100.718750
-Empty container.
+Surface area sum = 160.000000
+Empty container. 
 Container contains 0 elements.

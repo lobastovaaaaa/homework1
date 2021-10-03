@@ -1,8 +1,3 @@
-//------------------------------------------------------------------------------
-// main.cpp - содержит главную функцию, 
-// обеспечивающую простое тестирование
-//------------------------------------------------------------------------------
-
 #include <iostream>
 #include <fstream>
 #include <cstdlib> // для функций rand() и srand()
@@ -27,7 +22,6 @@ void errMessage2() {
             "     command -n number outfile01 outfile02\n";
 }
 
-//------------------------------------------------------------------------------
 int main(int argc, char* argv[]) {
     if(argc != 5) {
         errMessage1();
@@ -64,9 +58,14 @@ int main(int argc, char* argv[]) {
     ofstream ofst1(argv[3]);
     ofst1 << "Filled container:\n";
     Out(c, ofst1);
+    ofst1 << "Surface area sum = " << SurfaceAreaSum(c) << "\n";
 
+    BubbleSort(c);
+
+    // Вывод содержимого отсортированного контейнера в файл
     ofstream ofst2(argv[4]);
-    ofst2 << "Surface area sum = " << SurfaceAreaSum(c) << "\n";
+    ofst2 << "Sorted container:\n";
+    Out(c, ofst2);
 
     Clear(c);
     cout << "Stop"<< endl;
